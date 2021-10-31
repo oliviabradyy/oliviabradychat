@@ -1,23 +1,25 @@
 // Options the user could type in
 const prompts = [
   ["hi", "hey", "hello", "good morning", "good afternoon"],
-  ["yes", "YES"]
+  ["yes", "YES", "Yes"],
+  ["hot", "HOT","Hot"],
+  ["Sore", "SORE", "sore"]
+
 ]
 
 // Possible responses, in corresponding order
 
 const replies = [
   ["Hello! Are you worried you might have covid? Please type YES if you do"],
-  ["Ok we will do some checks!"]
+  ["Do you have a tempreture? Please type Hot if you do."],
+  ["Oh sorry to hear that! Do you have a sore throat? Say Sore if you do"],
+  ["Next question......"]
 ]
 
 // Random for any other user input
 
 const alternative = [
-  "Same",
-  "Go on...",
-  "Bro...",
-  "Try again",
+  "That's a good sign then",
   "I'm listening...",
   "I don't understand :/"
 ]
