@@ -44,7 +44,7 @@ function output(input) {
 }
 
 function compare(promptsArray, repliesArray, string) {
-  let reply;
+  let reply; // this a True False return
   let replyFound = false;
   for (let x = 0; x < promptsArray.length; x++) {
     for (let y = 0; y < promptsArray[x].length; y++) {
@@ -57,7 +57,7 @@ function compare(promptsArray, repliesArray, string) {
       }
     }
     if (replyFound) {
-      // Stop outer loop when reply is found instead of interating through the entire array
+      // Stop outer loop when reply is found 
       break;
     }
   }
