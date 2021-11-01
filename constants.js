@@ -24,7 +24,7 @@ const replies = [
   ["I hope you're okay!!, let's keep positive throughout these hard times. You don't mind me asking a few more questions? say I don't mind if we should continue"],
   ["Let's keep going!!, Have you been having fever like symptoms? For example.. high temperture, body shaking, body aches, constant headaches. Say Fever if you have"],
   ["A loss of smell or taste can be common.. have you been experiencing this? Say smell or taste if you have"],
-  ["It is important to being a face covering or mask when exiting your household, this limits the spread of coronavirus through talking, breathing and coughing. When leaving your household, have you been following these guidelines and wearing a mask? Say Mask if you have"]
+  ["It is important to being a face covering or mask when exiting your household, this limits the spread of coronavirus through talking, breathing and coughing. When leaving your household, have you been following these guidelines and wearing a mask? Say Mask if you have"],
 
 
 ]
