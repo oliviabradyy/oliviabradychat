@@ -77,7 +77,7 @@ function addChat(input, product) {
   let botImg = document.createElement("img");
   let botText = document.createElement("span");
   botDiv.id = "bot";
-  botImg.src = "docliv.png";
+  botImg.src = "virus.png";
   botImg.className = "avatar";
   botDiv.className = "bot response";
   botText.innerText = "Typing...";
